@@ -2583,6 +2583,8 @@ Join 2700+ creators to reach billions of people globally
 
 61. [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) 👉 搜索科学论文，从全文研究中提取结构化实验数据。支持 SSE 和 Streamable HTTP。
 
+62. [ModelBenchmark](https://modelbenchmark.io/) 👉 Independent rankings for 202 AI models, with prices and specs for 2,406 models.
+
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
 1. [AI Photos](https://aiphotos.ai/) 👉 Get 150+ AI generated photos in 50+ styles for her, him, and couples.
@@ -4098,7 +4100,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 8. [LoveGenius](https://www.lovegenius.io/) 👉 Attract better matches with an AI-written optimized dating profile
 
-9. [Lovelines](https://lovelines.xyz/) 👉 Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics.
+62. [ModelBenchmark](https://modelbenchmark.io/) 👉 Independent rankings for 202 AI models, with prices and specs for 2,406 models.
+63.
+64. 9. [Lovelines](https://lovelines.xyz/) 👉 Create custom keepsakes for a loved ## 11.one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics.
 
 10. [Meet Millie](https://www.meetmillie.app/) 👉 Upscale your dating game with AI
 
