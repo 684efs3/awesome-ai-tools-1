@@ -9,7 +9,8 @@ A local-first AI assistant for learning and knowledge management. Import & analy
 🔗 [https://wisemindai.app](https://wisemindai.app)
 
 💡 **ChatTOC**  
-Add table-of-contents, search, bookmarks, and export to long AI chats. Browse and jump through conversations like a document outline.  
+Add table-of-contents, search, bookmarks, and export to long AI chats. Browse 62. [ModelBenchmark]
+
 🔗 [https://chattoc.aichris.cc/](https://chattoc.aichris.cc/)
 
 <hr />
